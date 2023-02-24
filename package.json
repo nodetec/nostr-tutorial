@@ -1,0 +1,16 @@
+{
+  "name": "nostr-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nostr-tools": "^1.6.0",
+    "typescript": "^4.9.5"
+  }
+}
