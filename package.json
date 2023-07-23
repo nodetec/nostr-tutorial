@@ -1,16 +1,18 @@
 {
   "name": "nostr-tutorial",
   "version": "1.0.0",
-  "description": "",
+  "description": "tutorial for nostr",
   "main": "index.js",
   "scripts": {
     "build": "tsc"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Christian Chiarulli",
+  "license": "GPL-3.0",
   "devDependencies": {
-    "nostr-tools": "^1.6.0",
-    "typescript": "^4.9.5"
+    "@types/node": "^20.4.4",
+    "nostr-tools": "^1.13.0",
+    "prettier": "^3.0.0",
+    "typescript": "^5.1.6"
   }
 }
