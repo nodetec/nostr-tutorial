@@ -1,0 +1,17 @@
+{
+  "name": "nostr-tutorial",
+  "description": "tutorial for nostr",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "nostr-tools": "^2.7.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.4",
+    "prettier": "^3.0.0",
+    "typescript": "^5.1.6"
+  }
+}
