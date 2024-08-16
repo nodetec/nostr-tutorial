@@ -1,8 +1,9 @@
 <h1 style="color: #3498db; font-family: 'Arial', sans-serif; text-align: center;">
-    <img src="https://api.iconify.design/game-icons/ostrich.svg?color=%23a259ff" alt="Ostrich Logo" width="100" style="vertical-align: middle;"/> 
+    <img src="https://api.iconify.design/game-icons/ostrich.svg?color=%23a259ff" alt="Ostrich Logo" width="75" style="vertical-align: middle;"/> 
     Nostr Tutorial
 </h1>
-<p style="text-align: center;">Learn Nostr using TypeScript &amp; nostr-tools.</p>
+
+Learn Nostr using TypeScript & nostr-tools.
 
 ---
 
@@ -18,7 +19,7 @@ curl -fsSL https://bun.sh/install | bash
 
 ### Installing Dependencies
 
-After installing Bun, you can install the project dependencies using the following command:
+After installing Bun, you can install the necessary packages with:
 
 ```bash
 bun install
@@ -26,13 +27,13 @@ bun install
 
 ### Running the Tutorial
 
-Once you have installed the dependencies, you can run the <code>keypair.ts</code> file with the following command:
+Once you have installed the packages, you can run the `keypair.ts` file with:
 
 ```bash
 bun keypair.ts
 ```
 
-This will execute the TypeScript file using Bun. You can use this same command to run any other TypeScript or JavaScript file in your project.
+This will execute the TypeScript file using Bun. You can use this same command to run the other TypeScript files as well.
 
 ---
 
