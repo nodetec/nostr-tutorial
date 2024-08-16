@@ -19,7 +19,15 @@ curl -fsSL https://bun.sh/install | bash
 
 ### Installing Dependencies
 
-After installing Bun, you can install the necessary packages with:
+Clone the project:
+
+```bash
+git clone https://github.com/nodetec/nostr-tutorial
+
+cd nostr-tutorial
+```
+
+Install the necessary packages with:
 
 ```bash
 bun install
